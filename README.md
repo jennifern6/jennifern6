@@ -1,5 +1,5 @@
 
-![Jen's Banner](./jennifer_nguyen_banner2.png)
+![Jen's Banner](./jennifer_nguyen_banner1.png)
 
 
 Hello! 👋 I’m Jennifer, but you can call me Jen! 
@@ -8,12 +8,9 @@ I'm a sales pro turned **software engineer** who loves coding and cooking up cre
 
 ---
 
-## 🥗 **Appetizers: About Me**  
+🥗 **Appetizers: About Me**  
 - 🍁⭐ Proudly **Canadian-Vietnamese** living in Toronto, ON
-- 👩🏻‍🍳🍽️ **Passionate about food** and always experimenting with new dishes! 
-- 🌮 Self-proclaimed **Taco Tuesday Champion**  
-- 🏎️ Thrilled by the speed and power of **supercars**
-- ⛳ Active in sports and currently learning the **art of golf**
+- 👩🏻‍🍳🍔🏐🏀⛳✈️💪🏼💃🏻🏎️ 
 - 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/jennifern6)
 - 💌 [Email Me](mailto:jennifernguyen.dev@gmail.com)
 
@@ -21,7 +18,7 @@ I'm a sales pro turned **software engineer** who loves coding and cooking up cre
 
 ---
 
-# 🍳 **Main Course: Tech Stack**
+🍳 **Main Course: Tech Stack**
 | **Frontend Ingredients** | **Backend Spices** | **Near Future Experiments** |
 |---------------------------|---------------------|-------------------------|
 | ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white) |
@@ -35,16 +32,14 @@ I'm a sales pro turned **software engineer** who loves coding and cooking up cre
 
 ---
 
-## 🍦 **Dessert: Fun Facts**  
+🍦 **Dessert: Fun Facts**  
 - 🌯🍟 My favourite food: **Shawarma Poutine** (I know!!!)
 - 🎲🎳🎱 I enjoy boardgames, tabletop gaming, bowling, and billiards pool! 
-- 😊😎 I enjoyed making this README file way too much! 
 
 ---
 
-## 🍹 **Specials: Featured Projects**  
+🍹 **Specials: Featured Projects**  
 - 🍽️ [Eat Collective (versatile food blog)](https://github.com/jennifern6/eat-collective-client)
-- 👀 Some projects are currently private
 - 🍰 Exciting and public projects... Coming Soon!   
 
 ---
