@@ -10,7 +10,11 @@ I'm a sales pro turned **software engineer** who loves coding and cooking up cre
 
 🥗 **Appetizers: About Me**  
 - 🍁⭐ Proudly **Canadian-Vietnamese** living in Toronto, ON
-- 👩🏻‍🍳🍔🏐🏀⛳✈️💪🏼💃🏻🏎️ 
+- 👩🏻‍🍳🍽️ **Passionate about food** and always experimenting with new dishes! 
+- 🌮 Self-proclaimed **Taco Tuesday Champion**  
+- 🏎️ Thrilled by the speed and power of **supercars**
+- ⛳ Active in sports and currently learning the **art of golf**
+- 🫣🙌 Stepping out of my comfort zone & **always trying new things**! 
 - 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/jennifern6)
 - 💌 [Email Me](mailto:jennifernguyen.dev@gmail.com)
 
@@ -40,7 +44,7 @@ I'm a sales pro turned **software engineer** who loves coding and cooking up cre
 
 🍹 **Specials: Featured Projects**  
 - 🍽️ [Eat Collective (versatile food blog)](https://github.com/jennifern6/eat-collective-client)
-- 🍰 Exciting and public projects... Coming Soon!   
+- 🍰 Exciting **NEWS** and public projects... Coming Soon!   
 
 ---
 
