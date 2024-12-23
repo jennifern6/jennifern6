@@ -15,12 +15,14 @@ I'm a sales pro turned **software engineer** who loves coding and cooking up cre
 - 🏎️ Thrilled by the speed and power of **supercars**
 - ⛳ Active in sports and currently learning the **art of golf**
 - 🫣🙌 Stepping out of my comfort zone & **always trying new things**! 
+- 👀 [Check out my website!](https://jennifern6.github.io/)
 - 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/jennifern6)
 - 💌 [Email Me](mailto:jennifernguyen.dev@gmail.com)
 
  
 
 ---
+
 
 🍳 **Main Course: Tech Stack**
 | **Frontend Ingredients** | **Backend Spices** | **Near Future Experiments** |
