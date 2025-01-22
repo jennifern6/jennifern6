@@ -4,7 +4,11 @@
 
 Hello! 👋 I’m Jennifer, but you can call me Jen! 
 
-I'm a sales pro turned **software engineer** who loves coding and cooking up creative projects. I've always been a creative at heart and love seeing my ideas come to life. Let's dive into a menu full of fun! 🍴✨
+I'm a sales pro turned **software engineer** who loves coding and cooking up creative projects.
+
+I am currently a ⭐<b>Teaching Assistant (Software Engineering)</b>⭐ at BrainStation - I'll be helping students navigate through their coding journey in this intensive 3-month program.
+
+Alright, now let's dive into a menu full of fun! 🍴✨
 
 ---
 
