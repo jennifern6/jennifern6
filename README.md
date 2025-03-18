@@ -2,13 +2,13 @@
 ![Jen's Banner](./jennifer_nguyen_banner1.png)
 
 
-Hello! 👋 I’m Jennifer, but you can call me Jen! 
+Hello! 👋 I’m Jennifer, but you can call me Jen!
 
-I'm a sales pro turned **software engineer** who loves coding and cooking up creative projects.
+I'm a sales pro turned <b>software engineer</b> who loves coding and bringing creative ideas to life.
 
-I am currently a ⭐<b>Teaching Assistant (Software Engineering)</b>⭐ at BrainStation - I'll be helping students navigate through their coding journey in this intensive 3-month program.
+I’m currently a ⭐<b>Teaching Assistant (Software Engineering)</b>⭐ at BrainStation, where I help students navigate their coding journey in an intensive 3-month program. The best part? Connecting with students, chatting about code, and learning through a LOT of code reviews!
 
-Alright, now let's dive into a menu full of fun! 🍴✨
+Alright, now let’s dive into a menu full of fun! 🍴✨
 
 ---
 
@@ -18,7 +18,7 @@ Alright, now let's dive into a menu full of fun! 🍴✨
 - 🌮 Self-proclaimed **Taco Tuesday Champion**  
 - 🏎️ Thrilled by the speed and power of **supercars**
 - ⛳ Active in sports and currently learning the **art of golf**
-- 🫣🙌 Stepping out of my comfort zone & **always trying new things**! 
+- 🙌 Stepping out of my comfort zone & **always trying new things**! 
 - 👀 [Check out my website!](https://jennifern6.github.io/)
 - 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/jennifern6)
 - 💌 [Email Me](mailto:jennifernguyen.dev@gmail.com)
@@ -43,8 +43,8 @@ Alright, now let's dive into a menu full of fun! 🍴✨
 ---
 
 🍦 **Dessert: Fun Facts**  
-- 🌯🍟 My favourite food: **Shawarma Poutine** (I know!!!)
-- 🎲🎳🎱 I enjoy boardgames, tabletop gaming, bowling, and billiards pool! 
+- 🌯🍟 My favourite food (hard to choose): **Shawarma Poutine** (I know!!!)
+- 🎲🎳🎱 I also enjoy boardgames, tabletop gaming, bowling, and billiards pool! 
 
 ---
 
