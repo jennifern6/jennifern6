@@ -34,11 +34,11 @@ Alright, now let’s dive into a menu full of fun! 🍴✨
 | ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) | ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white) |                     | ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white) |
-| ![Sass](https://img.shields.io/badge/-Sass-pink?style=flat&logo=sass&logoColor=white) |                     | ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat&logo=react&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white) |  NEW* ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal?style=flat&logo=tailwindcss&logoColor=white)                | ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white) | 
+| ![Sass](https://img.shields.io/badge/-Sass-pink?style=flat&logo=sass&logoColor=white) |                   | ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat&logo=react&logoColor=white) |
 |                           |                     | ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=flat&logo=ruby-on-rails&logoColor=white) |
-|                           |                     | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-teal?style=flat&logo=tailwindcss&logoColor=white) |
-|                           |                     | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white) |
+|                           |                     |![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)                                               |
+|                           |                     |                                            |
 
 ---
 
